@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Donald Trump</string>
+		<key>age</key>
+		<string>88</string>
+		<key>height</key>
+		<string>170</string>
+		<key>phone</key>
+		<string>01099990001</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Shinozaki Ai</string>
+		<key>age</key>
+		<string>25</string>
+		<key>height</key>
+		<string>155</string>
+		<key>phone</key>
+		<string>01099990002</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Takaki Masao</string>
+		<key>age</key>
+		<string>72</string>
+		<key>height</key>
+		<string>169</string>
+		<key>phone</key>
+		<string>01099990003</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Yuna Kim</string>
+		<key>age</key>
+		<string>27</string>
+		<key>height</key>
+		<string>162</string>
+		<key>phone</key>
+		<string>01099990004</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Cristiano Ronaldo</string>
+		<key>age</key>
+		<string>31</string>
+		<key>height</key>
+		<string>191</string>
+		<key>phone</key>
+		<string>01099990005</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Lionel Messi</string>
+		<key>age</key>
+		<string>30</string>
+		<key>height</key>
+		<string>170</string>
+		<key>phone</key>
+		<string>01099990006</string>
+	</dict>
+</array>
+</plist>

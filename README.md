@@ -1,6 +1,6 @@
 # SchoolCode
 
-패스트캠퍼스 iOS School 1기 : 강준
+# FastCampus iOS School
 
 강의 내용 정리
 

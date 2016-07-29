@@ -1,92 +1,93 @@
 # FastCampus iOS School
 
-#강의 내용 정리
+# content of lecture
 
-###week1
+### Week1
 
-1일 : 컴퓨터의 구성
+Day1 : The organization of the computer
 
-1. 컴퓨터의역사
+1. the history of the computer
 
-수학자가 빠른 연산을 위한 기계장치를 만들어냄 = 계산기 = 컴퓨터 * 빠른 연산을 위해서 2진법을 사용함
+Mathematicians have created a mechanism for rapid calculation = calculator = computer * using binary system for fast operation
 
-1세대 컴퓨터 : ENIAC, 진공관을 사용함
+1st generation of computer : ENIAC, vacuum tube
 
-2세대 컴퓨터 : 트랜지스터
+2nd generation of computer : Transistor
 
-3세대 컴퓨터 : 직접회로(IC)
+3rd generation of computer : Integrated circuit(IC)
 
-2. 컴퓨터의 구성
+2. The organization of the computer
 
-하드웨어
+Hardware
 
-입출력장치 : 입력과 출력을 할수 있는 컴퓨터에 연결된 모든 기기
-기억장치 : 컴퓨터가 사용되기 위한 데이터를 기록하는 장치 주기억(RAM), 보조기억(ROM)
+Input and output devices : all devices connected to the computer that be able to make an input and an output
+Data storage : devices from which the computer writes data to be used. Main storage(RAM), Secondary storage(Hard disk)
 
-연산/제어장치 : CPU
+Operation/control device : CPU
 
-소프트웨어
+Software
 
-시스템소프트웨어 로더, 장치드라이버, OS, 컴파일러, 어셈블러, 링커 등
+System software loader, devices driver, OS, compiler, assembler, linker etc.
 
-응용소프트웨어 OS안에서 실행되는 모든 프로그램
+All the programs that run in OS software applications
 
-3. 컴퓨터의 구조
+3. The structure of a computer
 
-하버드 구조 : 명령어 메모리, 데이터 메모리가 분리된 형태
+Harvard architecture : instruction memory, separated form of the data memory
 
-장점 : 메모리가 따로 쓰기때문에 병목현상이 일어나지 않는다.
-단점 : 프로그램을 돌리려면 각자의 회로 구조가 필요하다
-폰노이만구조 : 메모리를 하나로 공유한다.
+Advantages : It does not occur bottleneck phenomenon because memory is separated each parts.
+Disadvantages : It requires each circutes to excute program
 
-장점 : 구조를 바꾸지 않고 내부 프로그램만으로도 설계가 가능하다.
-단점 : 메모리를 공유하므로 병목현상이 일어난다.
-** 오늘날의 컴퓨터는 두개의 구조를 용도에 따라서 같이 사용한다.
+Von Neumann architecture : It shares into one memory.
 
-2일차 : 컴퓨터의 연산와 운영체제
+Advantages : It can be designed without changing the structure with only the internal program.
+Disadvantages : It can occur because it shares one memory.
+** Today's computers are used as the two structures according to the purpose.
 
-컴퓨터연산(AND, OR, XOR)
+Day2 : The operation of the computer and operating system
 
-운영체제
+The operation of the computer(AND, OR, XOR)
 
-__3일차 : 자료구조와 알고리즘, 데이터베이스 __
+operating system
 
-1. 자료구조
+__Day3 : Data Structures, algorithms, and database __
 
-원시구조 : 정수, 실수, 문자
-선형구조
+1. Data Structures
 
-리스트구조
-스택
-큐
-덱
-비선형구조
+Raw Structure: integers, real numbers , characters
+Linear structure
 
-그래프
-트리
-2. 알고리즘
+List structure
+Stack
+Queue
+Deque
+Nonlinear narrative
 
-__4일차 : 네트워크와 암호화 __
+Graph
+Tree
+2. Algorithms
 
-5일차 : 소프트웨어 공학
+__Day4 : Networks and encryption __
 
-2주차
+Day5 : Software Engineering
 
-6일차 : 프로그래밍 언어
+### week2
 
-7일차 : 리뷰 및 Git기초 설명
+Day6 : Programming language
 
-8일차 : XCode 기초 강의 및 C언어 기초
+Day7 : Review and explain of git basics
 
-1. XCode 기본 사용법 계산기 예제를 통한 UI숙달 - 경로 : ios/Example/calc
+Day8 : basic of X-Code and C-language
 
-2. C언어 기초
+1. XCode Basic Usage, UI excercise through the calculator example - route : SchoolCode/Lecture/week2/day8/
 
-기본 변수 선언 및 타입 함수선언 및 작성 방법 CamelCase와 camelBackCase에 대한 설명
+2. C-language basics
 
-9일차
+The default variable type declarations, function declarations and a description of CamelCase, camelBackCase
 
-C언어 기초 2차
+Day9
+
+C-language basics - 2nd
 
 조건문 = if, switch 비교연산자(>, <, <= ...), 조건연산자(&&, ||) 반복문 예제를 통한 반복문 실습
 
@@ -104,7 +105,8 @@ swap 두 개 값 변경하기
 삼각수와 특정 배수의 삼각수 구하기
 지정한 숫자까지 더하기
 D-Day구하기(단, 현재일과 기준일을 입력받는다.)
-3주차
+
+### week3
 
 11일차
 
@@ -197,7 +199,7 @@ Objective-C 기초
 
 따라치기 VendingMachine : /ios/Example/VendingMachine/VendingMachine/.
 
-4주차
+### week4
 
 16일차 어플리케이션 생명주기 메인루프동작모식도에 따른 App의 작동 순서 AppDelegate내부의 작동이 어떻게 되는가? MVC모델로 살펴보는 구조
 

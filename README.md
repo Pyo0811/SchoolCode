@@ -1,6 +1,6 @@
 # FastCampus iOS School
 
-# content of lecture
+# The content of lecture
 
 ### Week1
 

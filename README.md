@@ -10,11 +10,11 @@ Day1 : The organization of the computer
 
 Mathematicians have created a mechanism for rapid calculation = calculator = computer * using binary system for fast operation
 
-1st generation of computer : ENIAC, vacuum tube
+1st generation of computers : ENIAC, vacuum tube
 
-2nd generation of computer : Transistor
+2nd generation of computers : Transistor
 
-3rd generation of computer : Integrated circuit(IC)
+3rd generation of computers : Integrated circuit(IC)
 
 2. The organization of the computer
 
@@ -89,21 +89,22 @@ Day9
 
 C-language basics - 2nd
 
-조건문 = if, switch 비교연산자(>, <, <= ...), 조건연산자(&&, ||) 반복문 예제를 통한 반복문 실습
+Conditional sentence = if, switch, comparison operators(>, <, <= ...), conditional operator(&&, ||) and practice through the excercise of loop sentence
 
-369게임만들기 : ios/Homework/Day9/Day9/main.m
+Creating 369 games : SchoolCode/Lecture/week2/day9/369GameProject/MultiplicationProject/main.m
 
 10일차
 
-Review 및 실습
+Review and practical exercise
 
-기본변수선언과 타입, 함수의 선언 및 작성, 조건문, 반복문, 비교연산자와 조건연산자
+The default variable declaration, type, declaration of the function , conditionals , loop sentences and comparison and conditional operators
 
-실습 : ios/Homework/Day10/Day10/main.m
+Exercise : 
 
-swap 두 개 값 변경하기
-삼각수와 특정 배수의 삼각수 구하기
-지정한 숫자까지 더하기
+swap : change two values
+-> SchoolCode/Homework/ToolBox/ToolBox/
+Obtaining triangular number of triangular number and specific  multiple numbers
+-> SchoolCode/Lecture/week2/day10/TriangleProject/TriangleProject/
 D-Day구하기(단, 현재일과 기준일을 입력받는다.)
 
 ### week3

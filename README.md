@@ -1,10 +1,8 @@
-# SchoolCode
-
 # FastCampus iOS School
 
-   강의 내용 정리
+#강의 내용 정리
 
-1주차
+<br>1주차</br>
 
 1일 : 컴퓨터의 구성
 

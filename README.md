@@ -119,16 +119,17 @@
 
    * Reference types : id, ClassName * (all the object type is a reference type)
 
-   **practice that calcuating average and total score :  SchoolCode/Lecture/week3/day11/ScoreAvgProject/ScoreAvgProject/main.m**
+   **practice that calcuating average and total score :          SchoolCode/Lecture/week3/day11/ScoreAvgProject/ScoreAvgProject/main.m**
+  
    **multiplication table : SchoolCode/Lecture/week3/day11/GooGooDanProject/GooGooDanProject/main.m**
 
    * Reference data types
 
-Arrays : NSArray, NSMutableArray ... The same type of data is stored continuously. Access the data through the index.
-NSArary : A static array .(only being used in Objective-c ) @[@1,@2,@3]
-NSMutableArray : A dynamic array. * array which has a list data type.
-String : Contained in NSString foundtion framework. Uses @"[string]" from Objective-
-Number types : NSNumber, NSInteger etc. but, if it is reference type, it can't be operated
+   Arrays : NSArray, NSMutableArray ... The same type of data is stored continuously. Access the data through the index.
+   NSArary : A static array .(only being used in Objective-c ) @[@1,@2,@3]
+   NSMutableArray : A dynamic array. * array which has a list data type.
+   String : Contained in NSString foundtion framework. Uses @"[string]" from Objective-
+   Number types : NSNumber, NSInteger etc. but, if it is reference type, it can't be operated
 
     NSNumber @3 + @5 = ?   => (Error)
     NSInteger 3 + 5  = ?   => 8

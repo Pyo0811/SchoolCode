@@ -25,5 +25,5 @@
    * user token value (KeychainItemWrapper)
 
 #Issue
-   what should it be done if the photo does not have GPS data? 
-   check GPS Meta data if it doesn’t have anything, it won’t process to map view page
+   * what should it be done if the photo does not have GPS data? 
+   * check GPS Meta data if it doesn’t have anything, it won’t process to map view page

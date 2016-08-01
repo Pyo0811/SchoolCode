@@ -309,32 +309,72 @@ UX/UI : SchoolCode/Lecture/week6/day30/Test0603/
 Day31 
 
 (Mini Project) Login logic : SchoolCode/Lecture/week7/day31/LoginTestProject/
-UITableView : ios/Example/CustomTable/*.*
+UITableView : SchoolCode/Lecture/week7/day31/TableViewExample/
 
-Day32 UITableViewController CustomTableCell : ios/Example/TableViewExample/*.*
+Day32 UITableViewController CustomTableCell : SchoolCode/Lecture/week7/day32/CustomTable/
 
-Day33
+Day33 Property&KVO : SchoolCode/Lecture/week7/day33/PropertyAndKVO/
 
-34일차
-8주차
+Day34 
 
-35일차
-36이라
-37일차
-38일차
-39일차
-9주차
+Image Picker Controller : SchoolCode/Lecture/week7/day34/MyImagePicker/
+Alert Controller : SchoolCode/Lecture/week7/day34/AlertExercise/
 
-40일차
-41일차
-42일차
-43일차
-44일차
-10주차
+*** week8
 
-45일차
-46일차
-47일차
-48일차
-49일차
-Project : 
+Day35 (UI review and practice)
+
+Navigation controller : SchoolCode/Lecture/week8/day35/Practice1/
+
+Day36 (UI review and practice)
+
+Tabbar controller : SchoolCode/Lecture/week8/day36/TabbarControllerExample/
+
+Day37 (UI review and practice)
+
+Table view controller : SchoolCode/Lecture/week8/day37/
+
+Day38
+
+Delegate & Notification : SchoolCode/Lecture/week8/day38/Notification/
+Thread/NSThread : SchoolCode/Lecture/week8/day38/NSThread/
+Grand central dispatch : SchoolCode/Lecture/week8/day38/GCD/
+
+Day39
+
+Block / GCD : SchoolCode/Lecture/week8/day39/StopWatchWithGCD/
+
+*** week9
+
+Day40 practice with database with MongoDB
+Day41 practice with database with MongoDB
+
+Day42
+
+CoreData : SchoolCode/Lecture/week9/day42/Database/
+iOS network basic : SchoolCode/Lecture/week9/day42/ImageNetworking/
+
+Day43
+
+(mini project) iOS netnetwork : SchoolCode/Lecture/week9/day43/ImageDownload/
+
+Day44
+
+(mini project) iOS netnetwork
+
+*** week10
+
+Day45
+
+AFNetowrking : SchoolCode/Lecture/week10/day45/NetworkMiniProject/
+
+Day46
+
+Xcode project Settings techniques
+
+47일차 : Software engineering
+48일차 : Software engineering
+49일차 : Software engineering
+
+
+Final project : SchoolCode/MyProject/MyProject(Jihoon)/

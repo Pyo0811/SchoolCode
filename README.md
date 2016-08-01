@@ -205,7 +205,7 @@ Instantiation and initialization
 
 - **Day15**
 
-   * (Mini project) VendingMachine : /ios/Example/VendingMachine/VendingMachine/.
+   * (Mini project) VendingMachine : SchoolCode/Lecture/week3/day15/VendingMachineProject/
 
 ### week4
 

@@ -92,7 +92,7 @@
 
    Conditional sentence = if, switch, comparison operators(>, <, <= ...), conditional operator(&&, ||) and practice through the excercise of loop sentence
 
-   Creating 369 games : SchoolCode/Lecture/week2/day9/369GameProject/MultiplicationProject/main.m
+   **Creating 369 games** : SchoolCode/Lecture/week2/day9/369GameProject/MultiplicationProject/main.m
 
 - **Day10**
 
@@ -201,11 +201,11 @@ Instantiation and initialization
 - **Day14**
 
    * Review and self-study and practice 
-   * CardDeck : SchoolCode/Homework/CardDeck/CardDeck
+   * **CardDeck** : SchoolCode/Homework/CardDeck/CardDeck
 
 - **Day15**
 
-   * (Mini project) VendingMachine : SchoolCode/Lecture/week3/day15/VendingMachineProject/
+   * **(Mini project) VendingMachine** : SchoolCode/Lecture/week3/day15/VendingMachineProject/
 
 ### week4
 
@@ -232,7 +232,7 @@ Instantiation and initialization
 
 - **Day20**
 
-   * AutoLayout practice : SchoolCode/Lecture/week4/day20/AutoLayout/
+   * **AutoLayout practice** : SchoolCode/Lecture/week4/day20/AutoLayout/
 
 ### week5
 
@@ -292,58 +292,58 @@ Instantiation and initialization
 
 - **Day28**
 
-   * Signleton : SchoolCode/Lecture/week6/day28/SingletonTest/
-   * NSUserDefault, Propert list : SchoolCode/Lecture/week6/day28/LoadDataProject/
+   * **Signleton** : SchoolCode/Lecture/week6/day28/SingletonTest/
+   * **NSUserDefault, Propert list** : SchoolCode/Lecture/week6/day28/LoadDataProject/
 
 - **Day 29 Back tracking**
 
 - **Day30 (Review)**
 
-   * Protocol & Delegate : SchoolCode/Lecture/week6/day30/DelegateTest/
+   * **Protocol & Delegate** : SchoolCode/Lecture/week6/day30/DelegateTest/
    * Block
    * Dictionary
 
-   * UX/UI : SchoolCode/Lecture/week6/day30/Test0603/
+   * **UX/UI** : SchoolCode/Lecture/week6/day30/Test0603/
 
 ### week7
 
 - **Day31**
 
-   * (Mini Project) Login logic : SchoolCode/Lecture/week7/day31/LoginTestProject/
-   * UITableView : SchoolCode/Lecture/week7/day31/TableViewExample/
+   * **(Mini Project) Login logic** : SchoolCode/Lecture/week7/day31/LoginTestProject/
+   * **UITableView** : SchoolCode/Lecture/week7/day31/TableViewExample/
 
-- **Day32 UITableViewController CustomTableCell : SchoolCode/Lecture/week7/day32/CustomTable/**
+- **Day32 UITableViewController CustomTableCell** : SchoolCode/Lecture/week7/day32/CustomTable/
 
-- **Day33 Property&KVO : SchoolCode/Lecture/week7/day33/PropertyAndKVO/**
+- **Day33 Property&KVO** : SchoolCode/Lecture/week7/day33/PropertyAndKVO/**
 
 - **Day34**
 
-   * Image Picker Controller : SchoolCode/Lecture/week7/day34/MyImagePicker/
-   * Alert Controller : SchoolCode/Lecture/week7/day34/AlertExercise/
+   * **Image Picker Controller** : SchoolCode/Lecture/week7/day34/MyImagePicker/
+   * **Alert Controller** : SchoolCode/Lecture/week7/day34/AlertExercise/
 
 ### week8
 
 - **Day35 (UI review and practice)**
 
-   * Navigation controller : SchoolCode/Lecture/week8/day35/Practice1/
+   * **Navigation controller** : SchoolCode/Lecture/week8/day35/Practice1/
 
 - **Day36 (UI review and practice)**
 
-   * Tabbar controller : SchoolCode/Lecture/week8/day36/TabbarControllerExample/
+   * **Tabbar controller** : SchoolCode/Lecture/week8/day36/TabbarControllerExample/
 
 - **Day37 (UI review and practice)**
 
-   * Table view controller : SchoolCode/Lecture/week8/day37/
+   * **Table view controller** : SchoolCode/Lecture/week8/day37/
 
 - **Day38*
 
-   * Delegate & Notification : SchoolCode/Lecture/week8/day38/Notification/
-   * Thread/NSThread : SchoolCode/Lecture/week8/day38/NSThread/
-   * Grand central dispatch : SchoolCode/Lecture/week8/day38/GCD/
+   * **Delegate & Notification** : SchoolCode/Lecture/week8/day38/Notification/
+   * **Thread/NSThread** : SchoolCode/Lecture/week8/day38/NSThread/
+   * **Grand central dispatch** : SchoolCode/Lecture/week8/day38/GCD/
 
 - **Day39**
 
-   * Block / GCD : SchoolCode/Lecture/week8/day39/StopWatchWithGCD/
+   * **Block / GCD** : SchoolCode/Lecture/week8/day39/StopWatchWithGCD/
 
 ### week9
 
@@ -352,16 +352,16 @@ Instantiation and initialization
 
 - **Day42**
 
-   * CoreData : SchoolCode/Lecture/week9/day42/Database/
-   * iOS network basic : SchoolCode/Lecture/week9/day42/ImageNetworking/
+   * **CoreData** : SchoolCode/Lecture/week9/day42/Database/
+   * **iOS network basic** : SchoolCode/Lecture/week9/day42/ImageNetworking/
 
-- **Day43 (mini project) iOS netnetwork : SchoolCode/Lecture/week9/day43/ImageDownload/**
+- **Day43 (mini project) iOS netnetwork** : SchoolCode/Lecture/week9/day43/ImageDownload/
 
 - **Day44 (mini project) iOS netnetwork**
 
 ### week10
 
-- **Day45 AFNetowrking : SchoolCode/Lecture/week10/day45/NetworkMiniProject/**
+- **Day45 AFNetowrking** : SchoolCode/Lecture/week10/day45/NetworkMiniProject/
 
 - **Day46 Xcode project Settings techniques**
 
@@ -370,4 +370,4 @@ Instantiation and initialization
 - **Day49 : Software engineering**
 
 
-- **Final project : SchoolCode/MyProject/MyProject(Jihoon)/**
+- **Final project** : SchoolCode/MyProject/MyProject(Jihoon)/

@@ -6,9 +6,9 @@
 
 - **Day1 : The organization of the computer**
 
-**1. the history of the computer**
+   **1. the history of the computer**
 
-Mathematicians have created a mechanism for rapid calculation = calculator = computer * using binary system for fast operation
+   Mathematicians have created a mechanism for rapid calculation = calculator = computer * using binary system for fast operation
 
 1st generation of computers : ENIAC, vacuum tube
 

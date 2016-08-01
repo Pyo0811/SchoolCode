@@ -16,7 +16,7 @@
 
    * 3rd generation of computers : Integrated circuit(IC)
 
-   **2. The organization of the computer
+   **2. The organization of the computer**
 
    Hardware
 
@@ -29,18 +29,18 @@
    * System software loader, devices driver, OS, compiler, assembler, linker etc.
    * All the programs that run in OS software applications
 
-3. The structure of a computer
+   **3. The structure of a computer**
 
-Harvard architecture : instruction memory, separated form of the data memory
+   * Harvard architecture : instruction memory, separated form of the data memory
 
-Advantages : It does not occur bottleneck phenomenon because memory is separated each parts.
-Disadvantages : It requires each circutes to excute program
+     * Advantages : It does not occur bottleneck phenomenon because memory is separated each parts.
+     * Disadvantages : It requires each circutes to excute program
 
-Von Neumann architecture : It shares into one memory.
+   * Von Neumann architecture : It shares into one memory.
 
-Advantages : It can be designed without changing the structure with only the internal program.
-Disadvantages : It can occur because it shares one memory.
-** Today's computers are used as the two structures according to the purpose.
+     * Advantages : It can be designed without changing the structure with only the internal program.
+     * Disadvantages : It can occur because it shares one memory.
+   **Today's computers are used as the two structures according to the purpose.**
 
 - Day2 : The operation of the computer and operating system
 

@@ -124,15 +124,19 @@
 
    * Reference data types
 
-     * Arrays : NSArray, NSMutableArray ... The same type of data is stored continuously. Access the data through the index.
+   Arrays : NSArray, NSMutableArray ... The same type of data is stored continuously. Access the data through the index.
+    NSArary : A static array .(only being used in Objective-c ) @[@1,@2,@3]
+    NSMutableArray : A dynamic array. * array which has a list data type.
+    String : Contained in NSString foundtion framework. Uses @"[string]" from Objective-c
+    Number types : NSNumber, NSInteger etc. but, if it is reference type, it can't be operated
 
-    NSNumber @3 + @5 = ?   => (Error)
+ NSNumber @3 + @5 = ?   => (Error)
     NSInteger 3 + 5  = ?   => 8
     NSNumber *num1 = @3, *num2 = @5
     num1.integerValue + num2.integerValue = ? => 8
 
     if(num1 < num2){
-    NSLog(@"TRUE");
+      NSLog(@"TRUE");
     }
 
     //For In loop

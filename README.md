@@ -60,78 +60,80 @@
      * Stack
      * Queue
      * Deque
-     * Nonlinear narrative
+  
+   * Nonlinear narrative
 
-Graph
-Tree
-2. Algorithms
+     * Graph
+     * Tree
 
-__Day4 : Networks and encryption __
+   **2. Algorithms**
 
-Day5 : Software Engineering
+- **Day4 : Networks and encryption**
+
+- **Day5 : Software Engineering**
 
 ### week2
 
-Day6 : Programming language
+- **Day6 : Programming language**
 
-Day7 : Review and explain of git basics
+- **Day7 : Review and explain of git basics**
 
-Day8 : basic of X-Code and C-language
+- **Day8 : basic of X-Code and C-language**
 
-1. XCode Basic Usage, UI excercise through the calculator example - route : SchoolCode/Lecture/week2/day8/
+   **1. XCode Basic Usage** UI excercise through the calculator example - route : SchoolCode/Lecture/week2/day8/
 
-2. C-language basics
+   **2. C-language basics**
 
-The default variable type declarations, function declarations and a description of CamelCase, camelBackCase
+   The default variable type declarations, function declarations and a description of CamelCase, camelBackCase
 
-Day9
+- **Day9**
 
-C-language basics - 2nd
+   **C-language basics - 2nd**
 
-Conditional sentence = if, switch, comparison operators(>, <, <= ...), conditional operator(&&, ||) and practice through the excercise of loop sentence
+   Conditional sentence = if, switch, comparison operators(>, <, <= ...), conditional operator(&&, ||) and practice through the excercise of loop sentence
 
-Creating 369 games : SchoolCode/Lecture/week2/day9/369GameProject/MultiplicationProject/main.m
+   Creating 369 games : SchoolCode/Lecture/week2/day9/369GameProject/MultiplicationProject/main.m
 
-Day10
+- **Day10**
 
-Review and practical exercise
+   **Review and practical exercise**
 
-The default variable declaration, type, declaration of the function , conditionals , loop sentences and comparison and conditional operators
+   The default variable declaration, type, declaration of the function , conditionals , loop sentences and comparison and conditional operators
 
-Exercise : 
+   Exercise : 
 
-swap : change two values
--> SchoolCode/Homework/ToolBox/ToolBox/
-Obtaining triangular number of triangular number and specific  multiple numbers
--> SchoolCode/Lecture/week2/day10/TriangleProject/TriangleProject/
+   * swap : change two values
+     * SchoolCode/Homework/ToolBox/ToolBox/
+   * Obtaining triangular number of triangular number and specific  multiple numbers
+     * SchoolCode/Lecture/week2/day10/TriangleProject/TriangleProject/
 
-D-Day caculation (but, the current day must be given)
+   D-Day caculation (but, the current day must be given)
 
 ### week3
 
-Day 11
+- **Day 11**
 
-D-Day caculation2 : SchoolCode/Homework/DdayProject/DdayProject/main.m
+   **D-Day caculation2 : SchoolCode/Homework/DdayProject/DdayProject/main.m**
 
-Objective-C variable types : NSInteger, CGFloat, BOOL, NSString
+   Objective-C variable types : NSInteger, CGFloat, BOOL, NSString
 
-Reference types : id, ClassName * (all the object type is a reference type)
+   * Reference types : id, ClassName * (all the object type is a reference type)
 
-practice that calcuating average and total score :  SchoolCode/Lecture/week3/day11/ScoreAvgProject/ScoreAvgProject/main.m
-multiplication table : SchoolCode/Lecture/week3/day11/GooGooDanProject/GooGooDanProject/main.m
+   **practice that calcuating average and total score :  SchoolCode/Lecture/week3/day11/ScoreAvgProject/ScoreAvgProject/main.m**
+   **multiplication table : SchoolCode/Lecture/week3/day11/GooGooDanProject/GooGooDanProject/main.m**
 
-Reference data types
+   * Reference data types
 
-Arrays : NSArray, NSMutableArray ... The same type of data is stored continuously. Access the data through the index.
+     * Arrays : NSArray, NSMutableArray ... The same type of data is stored continuously. Access the data through the index.
 
-NSArary : A static array .(only being used in Objective-c ) @[@1,@2,@3]
+     * NSArary : A static array .(only being used in Objective-c ) @[@1,@2,@3]
 
-NSMutableArray : A dynamic array. * array which has a list data type.
+     * NSMutableArray : A dynamic array. * array which has a list data type.
 
-String : Contained in NSString foundtion framework. Uses @"[string]" from Objective-c
+     * String : Contained in NSString foundtion framework. Uses @"[string]" from Objective-c
 
 
-Number types : NSNumber, NSInteger etc. but, if it is reference type, it can't be operated
+     * Number types : NSNumber, NSInteger etc. but, if it is reference type, it can't be operated
 
     NSNumber @3 + @5 = ?   => (Error)
     NSInteger 3 + 5  = ?   => 8

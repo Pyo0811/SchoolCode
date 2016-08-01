@@ -200,18 +200,18 @@ Instantiation and initialization
 
 - **Day14**
 
-   Review and self-study and practice 
-   CardDeck : SchoolCode/Homework/CardDeck/CardDeck
+   * Review and self-study and practice 
+   * CardDeck : SchoolCode/Homework/CardDeck/CardDeck
 
 - **Day15**
 
-   (Mini project) VendingMachine : /ios/Example/VendingMachine/VendingMachine/.
+   * (Mini project) VendingMachine : /ios/Example/VendingMachine/VendingMachine/.
 
 ### week4
 
 - **Day16**
 
-   How does the internal AppDelegate work in terms of Application lifecycle schem? looking into its structre by MVC pattern
+   * How does the internal AppDelegate work in terms of Application lifecycle schem? looking into its structre by MVC pattern
 
 - **Day17**
 
@@ -222,17 +222,17 @@ Instantiation and initialization
 
 - **Day18**
 
-   practical exercise to understand stack structure : SchoolCode/Lecture/week4/day18/Stack1/
+    * practical exercise to understand stack structure : SchoolCode/Lecture/week4/day18/Stack1/
 
 - **Day19**
 
-   What is ARC? -> allows you to automatically release the memory compiler time 
-   What is Property? -> the part for accessing the internal variable from external object
-   (Route : SchoolCode/Lecture/week4/day19/Example0519_2/ )
+   * What is ARC? -> allows you to automatically release the memory compiler time 
+   * What is Property? -> the part for accessing the internal variable from external object
+   * (Route : SchoolCode/Lecture/week4/day19/Example0519_2/ )
 
 - **Day20**
 
-   AutoLayout practice : SchoolCode/Lecture/week4/day20/AutoLayout/
+   * AutoLayout practice : SchoolCode/Lecture/week4/day20/AutoLayout/
 
 ### week5
 

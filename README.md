@@ -218,165 +218,156 @@ Instantiation and initialization
     **1. (review) alloc and dealloc** : Work within the class and instance methods. if the shutdown force wakes up in the application, the ARC gets the information from that point and exits at the same time.( different from garbage collection. but it is simiar )
 
     **2. StoryBorad practice** : Class connectivity and control button actions added using StoryBoard
-    Route : SchoolCode/Lecture/week4/day17/Test17/ )
+     *Route : SchoolCode/Lecture/week4/day17/Test17/ )
 
-Day18
+- **Day18**
 
-practical exercise to understand stack structure : SchoolCode/Lecture/week4/day18/Stack1/
+   practical exercise to understand stack structure : SchoolCode/Lecture/week4/day18/Stack1/
 
-Day19
+- **Day19**
 
-What is ARC? -> allows you to automatically release the memory compiler time 
-What is Property? -> the part for accessing the internal variable from external object
-(Route : SchoolCode/Lecture/week4/day19/Example0519_2/ )
+   What is ARC? -> allows you to automatically release the memory compiler time 
+   What is Property? -> the part for accessing the internal variable from external object
+   (Route : SchoolCode/Lecture/week4/day19/Example0519_2/ )
 
-Day20
+- **Day20**
 
-AutoLayout practice : SchoolCode/Lecture/week4/day20/AutoLayout/
+   AutoLayout practice : SchoolCode/Lecture/week4/day20/AutoLayout/
 
 ### week5
 
-Day21 
+- **Day21**
 
-Practice data structures and algorithms with c-language 
+   * Practice data structures and algorithms with c-language 
 
-inital consonant convert : SchoolCode/Lecture/week5/day21/ChosungConvert/
-Editor : SchoolCode/Lecture/week5/day21/Editor/
-ParenthesisString : ParenthesisString
-Queue : SchoolCode/Lecture/week5/day21/Queue/
+     * inital consonant convert : SchoolCode/Lecture/week5/day21/ChosungConvert/
+     * Editor : SchoolCode/Lecture/week5/day21/Editor/
+     * ParenthesisString : ParenthesisString
+     * Queue : SchoolCode/Lecture/week5/day21/Queue/
 
-Day22
+- **Day22**
 
-understanding iOS structure
-SandBox
-FrameWork hierarchy
-Size Resolution 
-UIComponent
+   * understanding iOS structure
+   * SandBox
+   * FrameWork hierarchy
+   * Size Resolution 
+   * UIComponent
 
-UIView
-UILable
-UIImageView
-* exercise : SchoolCode/Lecture/week5/day22/UITest/
+   * UIView
+   * UILable
+   * UIImageView
+     * exercise : SchoolCode/Lecture/week5/day22/UITest/
 
-Day23
+- **Day23**
 
-Dynamic Programming 
-Obtaining Fibonacci
-* exercise : SchoolCode/Lecture/week5/day23/Fibonacci/
+   * Dynamic Programming 
+   * Obtaining Fibonacci
+     * exercise : SchoolCode/Lecture/week5/day23/Fibonacci/
 
-Day24
+- **Day24**
 
-UIControl
-Delegate or Protocol
-UITextFieldDelegate
-* exercise : SchoolCode/Lecture/week5/day24/UIButtonTest/
+   * UIControl
+   * Delegate or Protocol
+   * UITextFieldDelegate
+     * exercise : SchoolCode/Lecture/week5/day24/UIButtonTest/
 
-Day25
+- **Day25**
 
-UIScrolView
-Block
-Animation
-* exercise : SchoolCode/Lecture/week5/day25/AnimationTest/
-* homework(WebView) : SchoolCode/Homework/WebView_Obj/
+   * UIScrolView
+   * Block
+   * Animation
+     * exercise : SchoolCode/Lecture/week5/day25/AnimationTest/
+     * homework(WebView) : SchoolCode/Homework/WebView_Obj/
 
 ### week6
 
-Day26
+- **Day26**
 
-Practice data structures and algorithms with c-language 
-*exercise : SchoolCode/Lecture/week6/day26/
+   * Practice data structures and algorithms with c-language 
+     * exercise : SchoolCode/Lecture/week6/day26/
 
-Day27 UINavagationController UITabbarController
-* exercise : SchoolCode/Lecture/week6/day27/TestVC/
+- **Day27**
+    * UINavagationController UITabbarController
+     * exercise : SchoolCode/Lecture/week6/day27/TestVC/
 
-Day28
+- **Day28**
 
-Signleton : SchoolCode/Lecture/week6/day28/SingletonTest/
-NSUserDefault, Propert list : SchoolCode/Lecture/week6/day28/LoadDataProject/
+   * Signleton : SchoolCode/Lecture/week6/day28/SingletonTest/
+   * NSUserDefault, Propert list : SchoolCode/Lecture/week6/day28/LoadDataProject/
 
-Day 29 
+- **Day 29 Back tracking**
 
-Back tracking
+- **Day30 (Review)**
 
-Day30 (Review)
+   * Protocol & Delegate : SchoolCode/Lecture/week6/day30/DelegateTest/
+   * Block
+   * Dictionary
 
-Protocol & Delegate : SchoolCode/Lecture/week6/day30/DelegateTest/
-Block
-Dictionary
-
-UX/UI : SchoolCode/Lecture/week6/day30/Test0603/
+   * UX/UI : SchoolCode/Lecture/week6/day30/Test0603/
 
 ### week7
 
-Day31 
+- **Day31**
 
-(Mini Project) Login logic : SchoolCode/Lecture/week7/day31/LoginTestProject/
-UITableView : SchoolCode/Lecture/week7/day31/TableViewExample/
+   * (Mini Project) Login logic : SchoolCode/Lecture/week7/day31/LoginTestProject/
+   * UITableView : SchoolCode/Lecture/week7/day31/TableViewExample/
 
-Day32 UITableViewController CustomTableCell : SchoolCode/Lecture/week7/day32/CustomTable/
+- **Day32 UITableViewController CustomTableCell : SchoolCode/Lecture/week7/day32/CustomTable/**
 
-Day33 Property&KVO : SchoolCode/Lecture/week7/day33/PropertyAndKVO/
+- **Day33 Property&KVO : SchoolCode/Lecture/week7/day33/PropertyAndKVO/**
 
-Day34 
+- **Day34**
 
-Image Picker Controller : SchoolCode/Lecture/week7/day34/MyImagePicker/
-Alert Controller : SchoolCode/Lecture/week7/day34/AlertExercise/
+   * Image Picker Controller : SchoolCode/Lecture/week7/day34/MyImagePicker/
+   * Alert Controller : SchoolCode/Lecture/week7/day34/AlertExercise/
 
 ### week8
 
-Day35 (UI review and practice)
+- **Day35 (UI review and practice)**
 
-Navigation controller : SchoolCode/Lecture/week8/day35/Practice1/
+   * Navigation controller : SchoolCode/Lecture/week8/day35/Practice1/
 
-Day36 (UI review and practice)
+- **Day36 (UI review and practice)**
 
-Tabbar controller : SchoolCode/Lecture/week8/day36/TabbarControllerExample/
+   * Tabbar controller : SchoolCode/Lecture/week8/day36/TabbarControllerExample/
 
-Day37 (UI review and practice)
+- **Day37 (UI review and practice)**
 
-Table view controller : SchoolCode/Lecture/week8/day37/
+   * Table view controller : SchoolCode/Lecture/week8/day37/
 
-Day38
+- **Day38*
 
-Delegate & Notification : SchoolCode/Lecture/week8/day38/Notification/
-Thread/NSThread : SchoolCode/Lecture/week8/day38/NSThread/
-Grand central dispatch : SchoolCode/Lecture/week8/day38/GCD/
+   * Delegate & Notification : SchoolCode/Lecture/week8/day38/Notification/
+   * Thread/NSThread : SchoolCode/Lecture/week8/day38/NSThread/
+   * Grand central dispatch : SchoolCode/Lecture/week8/day38/GCD/
 
-Day39
+- **Day39**
 
-Block / GCD : SchoolCode/Lecture/week8/day39/StopWatchWithGCD/
+   * Block / GCD : SchoolCode/Lecture/week8/day39/StopWatchWithGCD/
 
 ### week9
 
-Day40 practice with database with MongoDB
-Day41 practice with database with MongoDB
+- **Day40 practice with database with MongoDB**
+- **Day41 practice with database with MongoDB**
 
-Day42
+- **Day42**
 
-CoreData : SchoolCode/Lecture/week9/day42/Database/
-iOS network basic : SchoolCode/Lecture/week9/day42/ImageNetworking/
+   * CoreData : SchoolCode/Lecture/week9/day42/Database/
+   * iOS network basic : SchoolCode/Lecture/week9/day42/ImageNetworking/
 
-Day43
+- **Day43 (mini project) iOS netnetwork : SchoolCode/Lecture/week9/day43/ImageDownload/**
 
-(mini project) iOS netnetwork : SchoolCode/Lecture/week9/day43/ImageDownload/
-
-Day44
-
-(mini project) iOS netnetwork
+- **Day44 (mini project) iOS netnetwork**
 
 ### week10
 
-Day45
+- **Day45 AFNetowrking : SchoolCode/Lecture/week10/day45/NetworkMiniProject/**
 
-AFNetowrking : SchoolCode/Lecture/week10/day45/NetworkMiniProject/
+- **Day46 Xcode project Settings techniques**
 
-Day46
-
-Xcode project Settings techniques
-
-47일차 : Software engineering
-48일차 : Software engineering
-49일차 : Software engineering
+- **Day47 : Software engineering**
+- **Day48 : Software engineering**
+- **Day49 : Software engineering**
 
 
-Final project : SchoolCode/MyProject/MyProject(Jihoon)/
+- **Final project : SchoolCode/MyProject/MyProject(Jihoon)/**

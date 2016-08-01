@@ -213,80 +213,107 @@ How does the internal AppDelegate work in terms of Application lifecycle schem? 
 
 Day17
 
-1. (review) alloc 과 dealloc 작동 클래스메서드와 인스턴스메서드 안에서의 작동 * Application에서 강제로 종료가 났을경우 ARC에서 정보를 가지고 있다가 그 시점과 동시에 종료 ( different from garbage collection. but it is simiar )
+1. (review) alloc and dealloc : Work within the class and instance methods. if the shutdown force wakes up in the application, the ARC gets the information from that point and exits at the same time.( different from garbage collection. but it is simiar )
 
-2. StoryBorad 익히기 StoryBoard를 이용한 클래스컨트롤 연결 및 버튼 액션 추가
+2. StoryBorad practice : Class connectivity and control button actions added using StoryBoard
+(Route : SchoolCode/Lecture/week4/day17/Test17/ )
 
-3. AutoLayout : SchoolCode/practice/AutoLayoutPractice/
+Day18
 
-18일차 
+practical exercise to understand stack structure : SchoolCode/Lecture/week4/day18/Stack1/
 
-자료구조실습 실습을 통한 Stack구조 이해 * ios/Example/DataStructure/Algorism/main.c
+Day19
 
-19일차
+What is ARC? -> allows you to automatically release the memory compiler time 
+What is Property? -> the part for accessing the internal variable from external object
+(Route : SchoolCode/Lecture/week4/day19/Example0519_2/ )
 
-ARC란? compiler time단에서 자동적으로 메모리를 해제해준다. Property란? 외부에서 객체의 내부변수를 접근하기 위한 부분이다.
+Day20
 
-5주차
+AutoLayout practice : SchoolCode/Lecture/week4/day20/AutoLayout/
 
-21일차 자료구조 & 알고리즘 두번째 시간
+### week5
 
-스택을 이용한 프로그래밍 시간 괄호 구하기 (배열을 구할때와 스택을 이용한 방법을 구할때가 다른다.) 큐와 덱 표현하기
-* 실습 : ios/Example/DataStructure/DS_Secnon/main.m
+Day21 
 
-22일차
+Practice data structures and algorithms with c-language 
 
-iOS구조파악
+inital consonant convert : SchoolCode/Lecture/week5/day21/ChosungConvert/
+Editor : SchoolCode/Lecture/week5/day21/Editor/
+ParenthesisString : ParenthesisString
+Queue : SchoolCode/Lecture/week5/day21/Queue/
+
+Day22
+
+understanding iOS structure
 SandBox
-FrameWork계층구조
-Size Resolution
+FrameWork hierarchy
+Size Resolution 
 UIComponent
 
 UIView
 UILable
 UIImageView
-* 실습 : ios/Example/UITest/ViewController.m
+* exercise : SchoolCode/Lecture/week5/day22/UITest/
 
-23일차
+Day23
 
-Dynamic Programming
-피보나치수 구하기
-24일차
+Dynamic Programming 
+Obtaining Fibonacci
+* exercise : SchoolCode/Lecture/week5/day23/Fibonacci/
+
+Day24
 
 UIControl
-Delegate 와 Protocol
+Delegate or Protocol
 UITextFieldDelegate
-25일차
+* exercise : SchoolCode/Lecture/week5/day24/UIButtonTest/
+
+Day25
 
 UIScrolView
 Block
 Animation
-* 과제 : ios/Homework/WebViewTest/*.*
+* exercise : SchoolCode/Lecture/week5/day25/AnimationTest/
+* homework(WebView) : SchoolCode/Homework/WebView_Obj/
 
-6주차
+*** week6
 
-26일차
-27일차 UINavagationController UITabbarController
+Day26
 
-28일차 그래프를 이용한 지하철 구간 구하기
+Practice data structures and algorithms with c-language 
+*exercise : SchoolCode/Lecture/week6/day26/
 
-29일차
+Day27 UINavagationController UITabbarController
+* exercise : SchoolCode/Lecture/week6/day27/TestVC/
 
-30일차 Review
+Day28
 
-Protocol & Delegate
+Signleton : SchoolCode/Lecture/week6/day28/SingletonTest/
+NSUserDefault, Propert list : SchoolCode/Lecture/week6/day28/LoadDataProject/
+
+Day 29 
+
+Back tracking
+
+Day30 (Review)
+
+Protocol & Delegate : SchoolCode/Lecture/week6/day30/DelegateTest/
 Block
 Dictionary
 
-UX/UI
+UX/UI : SchoolCode/Lecture/week6/day30/Test0603/
 
-휴리스틱평가법을 이용한 앱평가 방법
-7주차
+*** week7
 
-31일차 UITableView 경로 : ios/Example/CustomTable/*.*
-32일차 UITableViewController CustomTableCell만들기 경로 : ios/Example/TableViewExample/*.*
+Day31 
 
-33일차
+(Mini Project) Login logic : SchoolCode/Lecture/week7/day31/LoginTestProject/
+UITableView : ios/Example/CustomTable/*.*
+
+Day32 UITableViewController CustomTableCell : ios/Example/TableViewExample/*.*
+
+Day33
 
 34일차
 8주차
@@ -310,4 +337,4 @@ UX/UI
 47일차
 48일차
 49일차
-프로젝트
+Project : 

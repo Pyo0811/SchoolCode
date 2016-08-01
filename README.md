@@ -125,49 +125,49 @@
 
    * Reference data types
 
-   Arrays : NSArray, NSMutableArray ... The same type of data is stored continuously. Access the data through the index.
-   NSArary : A static array .(only being used in Objective-c ) @[@1,@2,@3]
-   NSMutableArray : A dynamic array. * array which has a list data type.
-   String : Contained in NSString foundtion framework. Uses @"[string]" from Objective-
-   Number types : NSNumber, NSInteger etc. but, if it is reference type, it can't be operated
+Arrays : NSArray, NSMutableArray ... The same type of data is stored continuously. Access the data through the index.
+NSArary : A static array .(only being used in Objective-c ) @[@1,@2,@3]
+NSMutableArray : A dynamic array. * array which has a list data type.
+String : Contained in NSString foundtion framework. Uses @"[string]" from Objective-
+Number types : NSNumber, NSInteger etc. but, if it is reference type, it can't be operated
 
-    NSNumber @3 + @5 = ?   => (Error)
-    NSInteger 3 + 5  = ?   => 8
-    NSNumber *num1 = @3, *num2 = @5
-    num1.integerValue + num2.integerValue = ? => 8
+     NSNumber @3 + @5 = ?   => (Error)
+     NSInteger 3 + 5  = ?   => 8
+     NSNumber *num1 = @3, *num2 = @5
+     num1.integerValue + num2.integerValue = ? => 8
 
-    if(num1 < num2){
-      NSLog(@"TRUE");
-    }
+     if(num1 < num2){
+       NSLog(@"TRUE");
+     }
 
-    //For In 구문 
-    for [type *name] in [collection]{
+     //For In 구문 
+     for [type *name] in [collection]{
+ 
+     }
 
-    }
+**objects**
 
-objects
-
-OOP(Object-Oriented Programming)? It is said that all things in the real world of programming paradigms " objectified "
+**OOP(Object-Oriented Programming)?** It is said that all things in the real world of programming paradigms " objectified "
 (An independent unit , the data processing with the message units)
 \*\* Disadvantages: must bring every additional things and the design is a difficult and slow ,
 
-Class : it defines the behavior and properties belonging to the same type of group
+**Class** : it defines the behavior and properties belonging to the same type of group
 It consists of variables and functions (methods).
 
-Object : class is an instant (allocated on a memory actually )
+**Object** : class is an instant (allocated on a memory actually )
 \* _nil_ : this state is represented if the object is not assigned a real address .
 
-Method : Transmission the commands to the object through the messages in a manner of using the generated object from the class
+**Method** : Transmission the commands to the object through the messages in a manner of using the generated object from the class
 
-Day12 
+- **Day12**
 
-Objective-C basics
+   Objective-C basics
 
-1. Class and object
+   **1. Class and object**
 
-Declaration(Interface) :It declares the recorded methods , and properties within the header files between @interface and @end.
+**Declaration(Interface)** :It declares the recorded methods , and properties within the header files between @interface and @end.
 
-Implementation :  actual code being included in the instance types and methods. recored in the .m file between  @implementation and @end 
+**Implementation** :  actual code being included in the instance types and methods. recored in the .m file between  @implementation and @end 
 
     @implementation [ClassName] : NSObject
     {

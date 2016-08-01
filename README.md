@@ -10,11 +10,11 @@
 
    Mathematicians have created a mechanism for rapid calculation = calculator = computer * using binary system for fast operation
 
-1st generation of computers : ENIAC, vacuum tube
+   *1st generation of computers : ENIAC, vacuum tube
 
-2nd generation of computers : Transistor
+   *2nd generation of computers : Transistor
 
-3rd generation of computers : Integrated circuit(IC)
+   *3rd generation of computers : Integrated circuit(IC)
 
 2. The organization of the computer
 

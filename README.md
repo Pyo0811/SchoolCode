@@ -125,11 +125,15 @@
 
    * Reference data types
 
-Arrays : NSArray, NSMutableArray ... The same type of data is stored continuously. Access the data through the index.
-NSArary : A static array .(only being used in Objective-c ) @[@1,@2,@3]
-NSMutableArray : A dynamic array. * array which has a list data type.
-String : Contained in NSString foundtion framework. Uses @"[string]" from Objective-
-Number types : NSNumber, NSInteger etc. but, if it is reference type, it can't be operated
+**Arrays** : NSArray, NSMutableArray ... The same type of data is stored continuously. Access the data through the index.
+
+**NSArary** : A static array .(only being used in Objective-c ) @[@1,@2,@3]
+
+**NSMutableArray** : A dynamic array.  array which has a list data type.
+
+**String** : Contained in NSString foundtion framework. Uses @"[string]" from Objective-
+
+**Number types** : NSNumber, NSInteger etc. but, if it is reference type, it can't be operated
 
      NSNumber @3 + @5 = ?   => (Error)
      NSInteger 3 + 5  = ?   => 8
@@ -186,35 +190,35 @@ Instantiation and initialization
 * alloc : procure the memory space to use the object
 * init : initialization to use the object. 
 
-Inheritance : A new feature that enables you to use the class attribute (data) and behavior ( operation) of existing class
+   **Inheritance** : A new feature that enables you to use the class attribute (data) and behavior ( operation) of existing class
 
-@Implementation Car : NSObject (Inheritance from NSObject)
+   **@Implementation Car** : NSObject (Inheritance from NSObject)
 
-Methods : instance behavior performance [-,+] ([type])[identifer1]:([type])[variableName] [identifier2]:([type])[variableName]
+   **Methods** : instance behavior performance [-,+] ([type])[identifer1]:([type])[variableName] [identifier2]:([type])[variableName]
 
-practice : ios/Example/TestScore/TestScore/ToolBox.*
+   **practice** : ios/Example/TestScore/TestScore/ToolBox.*
 
-Day14
+- **Day14**
 
-Review and self-study and practice 
-CardDeck : SchoolCode/Homework/CardDeck/CardDeck
+   Review and self-study and practice 
+   CardDeck : SchoolCode/Homework/CardDeck/CardDeck
 
-Day15
+- **Day15**
 
-(Mini project) VendingMachine : /ios/Example/VendingMachine/VendingMachine/.
+   (Mini project) VendingMachine : /ios/Example/VendingMachine/VendingMachine/.
 
 ### week4
 
-Day16
+- **Day16**
 
-How does the internal AppDelegate work in terms of Application lifecycle schem? looking into its structre by MVC pattern
+   How does the internal AppDelegate work in terms of Application lifecycle schem? looking into its structre by MVC pattern
 
-Day17
+- **Day17**
 
-1. (review) alloc and dealloc : Work within the class and instance methods. if the shutdown force wakes up in the application, the ARC gets the information from that point and exits at the same time.( different from garbage collection. but it is simiar )
+    **1. (review) alloc and dealloc** : Work within the class and instance methods. if the shutdown force wakes up in the application, the ARC gets the information from that point and exits at the same time.( different from garbage collection. but it is simiar )
 
-2. StoryBorad practice : Class connectivity and control button actions added using StoryBoard
-(Route : SchoolCode/Lecture/week4/day17/Test17/ )
+    **2. StoryBorad practice** : Class connectivity and control button actions added using StoryBoard
+    Route : SchoolCode/Lecture/week4/day17/Test17/ )
 
 Day18
 

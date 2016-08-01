@@ -4,7 +4,7 @@
 
 ### Week1
 
-Day1 : The organization of the computer
+- Day1 : The organization of the computer
 
 1. the history of the computer
 
@@ -44,13 +44,13 @@ Advantages : It can be designed without changing the structure with only the int
 Disadvantages : It can occur because it shares one memory.
 ** Today's computers are used as the two structures according to the purpose.
 
-Day2 : The operation of the computer and operating system
+- Day2 : The operation of the computer and operating system
 
 The operation of the computer(AND, OR, XOR)
 
 operating system
 
-__Day3 : Data Structures, algorithms, and database __
+- Day3 : Data Structures, algorithms, and database
 
 1. Data Structures
 
@@ -277,7 +277,7 @@ Animation
 * exercise : SchoolCode/Lecture/week5/day25/AnimationTest/
 * homework(WebView) : SchoolCode/Homework/WebView_Obj/
 
-*** week6
+### week6
 
 Day26
 
@@ -304,7 +304,7 @@ Dictionary
 
 UX/UI : SchoolCode/Lecture/week6/day30/Test0603/
 
-*** week7
+### week7
 
 Day31 
 
@@ -320,7 +320,7 @@ Day34
 Image Picker Controller : SchoolCode/Lecture/week7/day34/MyImagePicker/
 Alert Controller : SchoolCode/Lecture/week7/day34/AlertExercise/
 
-*** week8
+### week8
 
 Day35 (UI review and practice)
 
@@ -344,7 +344,7 @@ Day39
 
 Block / GCD : SchoolCode/Lecture/week8/day39/StopWatchWithGCD/
 
-*** week9
+### week9
 
 Day40 practice with database with MongoDB
 Day41 practice with database with MongoDB
@@ -362,7 +362,7 @@ Day44
 
 (mini project) iOS netnetwork
 
-*** week10
+### week10
 
 Day45
 

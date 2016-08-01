@@ -40,26 +40,27 @@
 
      * Advantages : It can be designed without changing the structure with only the internal program.
      * Disadvantages : It can occur because it shares one memory.
-   **Today's computers are used as the two structures according to the purpose.**
 
-- Day2 : The operation of the computer and operating system
+   ** **Today's computers are used as the two structures according to the purpose.**
 
-The operation of the computer(AND, OR, XOR)
+- **Day2 : The operation of the computer and operating system**
 
-operating system
+   **The operation of the computer(AND, OR, XOR)**
 
-- Day3 : Data Structures, algorithms, and database
+   **operating system**
 
-1. Data Structures
+- **Day3 : Data Structures, algorithms, and database**
 
-Raw Structure: integers, real numbers , characters
-Linear structure
+   **1. Data Structures**
 
-List structure
-Stack
-Queue
-Deque
-Nonlinear narrative
+   * Raw Structure: integers, real numbers , characters
+   * Linear structure
+
+     * List
+     * Stack
+     * Queue
+     * Deque
+     * Nonlinear narrative
 
 Graph
 Tree

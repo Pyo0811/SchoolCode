@@ -1,15 +1,15 @@
-###update Date : 2016.07.29
+#update Date : 2016.07.29
 
-###Project NAME
+#Project NAME
 **Pokedex**
 
-###What I did?
+#What I did?
    * **first** : Login and sign up page, paths of each view controllers
    * **second** : implementing collection view and table view controller
    * **third** : linkage current project to sever with using AFNetworking api
    * **fourth** : the location of an image with using GPS and MapView api
 
-###The goal of project
+#The goal of project
    **ios**
    * the way of simple log-in (Login-in and sign-up with SNS)
    * upload pictures to collection view and table view (ImagePickerController)
@@ -24,6 +24,6 @@
    * creating Api (AFNetworking, FacebookSDK)
    * user token value (KeychainItemWrapper)
 
-###Issue
+#Issue
    what should it be done if the photo does not have GPS data? 
    check GPS Meta data if it doesn’t have anything, it won’t process to map view page

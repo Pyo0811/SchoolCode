@@ -10,26 +10,24 @@
 
    Mathematicians have created a mechanism for rapid calculation = calculator = computer * using binary system for fast operation
 
-   *1st generation of computers : ENIAC, vacuum tube
+   * 1st generation of computers : ENIAC, vacuum tube
 
-   *2nd generation of computers : Transistor
+   * 2nd generation of computers : Transistor
 
-   *3rd generation of computers : Integrated circuit(IC)
+   * 3rd generation of computers : Integrated circuit(IC)
 
-2. The organization of the computer
+   **2. The organization of the computer
 
-Hardware
+   Hardware
 
-Input and output devices : all devices connected to the computer that be able to make an input and an output
-Data storage : devices from which the computer writes data to be used. Main storage(RAM), Secondary storage(Hard disk)
+   * Input and output devices : all devices connected to the computer that be able to make an input and an output
+   * Data storage : devices from which the computer writes data to be used. Main storage(RAM), Secondary storage(Hard disk)
+   * Operation/control device : CPU
 
-Operation/control device : CPU
-
-Software
-
-System software loader, devices driver, OS, compiler, assembler, linker etc.
-
-All the programs that run in OS software applications
+   Software
+  
+   * System software loader, devices driver, OS, compiler, assembler, linker etc.
+   * All the programs that run in OS software applications
 
 3. The structure of a computer
 
